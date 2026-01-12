@@ -4,39 +4,27 @@
   <img src="https://komarev.com/ghpvc/?username=amitcodes08&label=Profile%20views&color=0e76a8&style=flat" alt="amitcodes08" />
 </p>
 
-I'm a **Full-Stack Developer** passionate about building scalable web applications and exploring the intersection of **DevOps** and **Generative AI**. Currently, I'm honing my problem-solving skills through competitive programming and deep-diving into the world of software development.
+I'm a **Full-Stack Developer** passionate about building scalable web applications and exploring the intersection of **DevOps** and **Generative AI**. Currently, I'm honing my problem-solving skills through competitive programming.
 
 ---
 
 ### 🛠 My Tech Stack
 
-**Full-Stack & Performance** ![Web](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,mysql,postgres,prisma)
-
-**Infrastructure & DevOps** ![DevOps](https://skillicons.dev/icons?i=docker,githubactions,aws,linux,git,vercel)
-
-**Generative AI & LLM Orchestration** <div>
-  <a href="#"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-</div>
-
----
-
-### 🧠 Focus Areas
-- 🤖 **Gen AI:** Building RAG pipelines using **LangChain** and deploying models via **Hugging Face**.
-- ⚙️ **DevOps:** Automating MERN deployments using **Docker** and CI/CD pipelines.
-- 🧩 **Problem Solving:** Actively competing on **Codeforces** and **LeetCode**.
+| Category | Skills |
+| :--- | :--- |
+| **Full-Stack** | ![Web](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,mysql,postgres,prisma) |
+| **DevOps** | ![DevOps](https://skillicons.dev/icons?i=docker,githubactions,aws,linux,git,vercel) |
+| **Gen AI** | <div><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></div> |
 
 ---
 
 ### 🏆 Coding Stats & Activity
 
 <div align="center">
-  <a href="https://leetcode.com/u/ycb5lAHqph/">
+  <a href="https://leetcode.com/u/ycb5lAHqph/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="https://codeforces.com/profile/aryaamit387">
+  <a href="https://codeforces.com/profile/aryaamit387" target="_blank">
     <img src="https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" />
   </a>
 </div>
@@ -50,16 +38,16 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 
 ---
 
-### 🤖 What I'm working on
-- 🏗️ Scaling MERN applications using **Next.js** for SSR and SEO.
-- 🐳 Containerizing microservices with **Docker**.
-- 🧠 Experimenting with **RAG (Retrieval-Augmented Generation)** in Gen AI apps.
-- 📈 Improving my rating on **Codeforces**.
+### 🧠 Current Focus
+- 🏗️ Scaling **MERN/Next.js** apps with high performance.
+- 🐳 **Dockerizing** microservices and building CI/CD pipelines.
+- 🤖 Building **RAG pipelines** using LangChain.
+- 📈 Improving algorithm efficiency on **Codeforces**.
 
 ---
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/amit-gupta-0a5292210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Gupta" height="30" width="40" /></a>
-<a href="https://x.com/amit_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="amit_codes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amit-gupta-0a5292210/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="35" width="35" /></a>
+<a href="https://x.com/amit_codes" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="35" width="35" /></a>
 </p>
