@@ -3,17 +3,28 @@
 I'm a Full-Stack Developer passionate about building scalable web applications and exploring the intersection of DevOps and Generative AI. Currently, I'm honing my problem-solving skills through competitive programming and deep-diving into world of software development.
 
 ---
-
 ### 🛠 My Tech Stack
 
-**Web Development**
-![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,mysql,postgresql,prisma,webrtc,socket.io)
+**Full-Stack & Performance**
+![Web](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,mysql,postgresql,prisma)
 
-**DevOps & Tools**
-![DevOps](https://skillicons.dev/icons?i=docker,githubactions,aws,linux,git)
+**Infrastructure & DevOps**
+![DevOps](https://skillicons.dev/icons?i=docker,githubactions,aws,linux,git,vercel)
 
-**Currently Exploring**
-![Learning](https://skillicons.dev/icons?i=py,tensorflow,pytorch,github) (Gen AI & LLMs)
+**Generative AI & LLM Orchestration**
+<div>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+---
+
+### 🧠 Gen AI & DevOps Focus
+- 🤖 **Gen AI:** Building RAG pipelines using **LangChain** and deploying models via **Hugging Face Inference Endpoints**.
+- ⚙️ **DevOps:** Automating MERN deployments using **Docker** containers and CI/CD pipelines.
+- 🧩 **Problem Solving:** Actively competing on **Codeforces** and **LeetCode** to sharpen algorithmic thinking.
 
 ---
 
@@ -24,7 +35,7 @@ I enjoy the challenge of algorithmic problem solving and participate in contests
 - 📊 **LeetCode:** https://leetcode.com/u/ycb5lAHqph/
 - 🟦 **Codeforces:** https://codeforces.com/profile/aryaamit387
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitcodes08&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amitcodes08&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitcodes08&layout=compact&theme=transparent)
 
 ---
