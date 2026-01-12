@@ -1,10 +1,11 @@
+
 # Hi there, I'm Amit Gupta 👋 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amitcodes08&label=Profile%20views&color=0e76a8&style=flat" alt="amitcodes08" />
 </p>
 
-I'm a **Full-Stack Developer** passionate about building scalable web applications and exploring the intersection of **DevOps** and **Generative AI**. Currently, I'm honing my problem-solving skills through competitive programming.
+I'm a **Full-Stack Developer** passionate about building scalable web applications and exploring the intersection of **DevOps** and **Generative AI**. I am currently deep-diving into the world of software development, **exploring the open-source ecosystem, and eager to contribute** to impactful projects.
 
 ---
 
@@ -39,10 +40,11 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 ---
 
 ### 🧠 Current Focus
-- 🏗️ Scaling **MERN/Next.js** apps with high performance.
-- 🐳 **Dockerizing** microservices and building CI/CD pipelines.
-- 🤖 Building **RAG pipelines** using LangChain.
-- 📈 Improving algorithm efficiency on **Codeforces**.
+- 🏗️ Scaling **MERN/Next.js** apps with high performance and SEO.
+- 🐳 **Dockerizing** microservices and optimizing CI/CD pipelines.
+- 🤖 Building **RAG pipelines** using LangChain and Hugging Face.
+- 🌟 **Open Source:** Actively looking for projects to contribute to and learn from.
+- 📈 Improving algorithm efficiency and ranking on **Codeforces**.
 
 ---
 
